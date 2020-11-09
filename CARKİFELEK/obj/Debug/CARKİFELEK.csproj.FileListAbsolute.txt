@@ -1,0 +1,13 @@
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\bin\Debug\CARKİFELEK.exe.config
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\bin\Debug\CARKİFELEK.exe
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\bin\Debug\CARKİFELEK.pdb
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.csprojAssemblyReference.cache
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.Form1.resources
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.Form2.resources
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.Form3.resources
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.Form4.resources
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.Properties.Resources.resources
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.csproj.GenerateResource.cache
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.csproj.CoreCompileInputs.cache
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.exe
+C:\Users\El Yapım\Desktop\CARKIFELEK\CARKİFELEK\CARKİFELEK\obj\Debug\CARKİFELEK.pdb
